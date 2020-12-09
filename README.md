@@ -322,10 +322,14 @@ else:
     print('as strings são diferentes')
 
 #Questao 11 obs.: tinha questões repetidas nas listas um e dois 
-
+palavra = input("")
+for i in range(int(len(palavra)/2))
+    if(palavra[i] != palavra[-i - 1]):
+         print('não é palindroma')
+    else:
+         print('é palindroma')
 
 #Questao 12
-
 i = input('digite uma palavra ')
 j = input(' digite uma segunda palavra ')
 x = list(i)
