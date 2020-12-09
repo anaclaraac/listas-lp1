@@ -392,3 +392,8 @@ for i in range(vInicial, vFinal + 1):
             somaDiv += j
     if(somaDiv == i):
         print('i é um número perfeito')
+
+#seguem os links das listas de algoritmos obs.: não consegui colocar os arquivos diretamente, acho que não tem como fazer isso pelo celular 
+#lista 1: https://drive.google.com/file/d/1FZoR6RYGuDksD6vjvPmHL5zPlZQbF9vy/view?usp=drivesdk
+#lista 2: https://drive.google.com/file/d/1FZztr9vZGlUHg2UUgjvvrhW_RXEFohXV/view?usp=drivesdk
+#lista 3: https://drive.google.com/file/d/1FbT9OzilEPc68vhCjzjhpFwZouusadJ3/view?usp=drivesdk
